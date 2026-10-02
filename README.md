@@ -45,4 +45,4 @@ LeetCode-Solutions/
 ## 🤝 Connect with Me
 
 - **GitHub:** [https://github.com/sapna53](https://github.com/sapna53)
-- **LinkedIn:** [Add your LinkedIn profile link here](https://www.linkedin.com/in/your-profile/)
+- **LinkedIn:** [Add your LinkedIn profile link here](https://www.linkedin.com/in/sapana-yadav-7396162a3/)
