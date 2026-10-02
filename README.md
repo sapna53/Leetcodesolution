@@ -15,11 +15,34 @@ This repository contains my solutions to LeetCode problems solved using **Java**
 
 Solutions are organized by topic or problem number for easy navigation.
 
+```
 LeetCode-Solutions/
-├── Arrays/
-├── Strings/
-├── Linked Lists/
-├── Stack/
-├── Queue/
-├── Trees/
-└── Graphs/
+├── Arrays
+├── Strings
+├── Linked Lists
+├── Stack
+├── Queue
+├── Trees
+├── Graphs
+├── Dynamic Programming
+├── Backtracking
+├── Greedy
+└── Miscellaneous
+```
+
+## 🎯 Objectives
+
+- Solve LeetCode problems consistently.
+- Improve algorithmic thinking.
+- Learn efficient coding techniques.
+- Prepare for technical interviews.
+
+## ⭐ Progress
+
+- ✅ Regularly solving LeetCode problems.
+- 🚀 Continuously updating this repository.
+
+## 🤝 Connect with Me
+
+- **GitHub:** [https://github.com/sapna53](https://github.com/sapna53)
+- **LinkedIn:** [Add your LinkedIn profile link here](https://www.linkedin.com/in/your-profile/)
