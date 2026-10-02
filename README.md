@@ -1,35 +1,25 @@
-<h2><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters">3. Longest Substring Without Repeating Characters</a></h2><h3>Medium</h3><hr><p>Given a string <code>s</code>, find the length of the <strong>longest</strong> <span data-keyword="substring-nonempty"><strong>substring</strong></span> without duplicate characters.</p>
+# LeetCode Solutions 🚀
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+Welcome to my **LeetCode Solutions** repository!
 
-<pre>
-<strong>Input:</strong> s = &quot;abcabcbb&quot;
-<strong>Output:</strong> 3
-<strong>Explanation:</strong> The answer is &quot;abc&quot;, with the length of 3. Note that <code>&quot;bca&quot;</code> and <code>&quot;cab&quot;</code> are also correct answers.
-</pre>
+This repository contains my solutions to LeetCode problems solved using **Java**. I created this repository to improve my problem-solving skills, strengthen my understanding of Data Structures & Algorithms (DSA), and prepare for coding interviews.
 
-<p><strong class="example">Example 2:</strong></p>
+## 📌 About
 
-<pre>
-<strong>Input:</strong> s = &quot;bbbbb&quot;
-<strong>Output:</strong> 1
-<strong>Explanation:</strong> The answer is &quot;b&quot;, with the length of 1.
-</pre>
+- 💻 Language: Java
+- 🧩 Platform: LeetCode
+- 🎯 Goal: Master DSA and improve coding skills
+- 🔄 Repository is updated regularly with new solutions.
 
-<p><strong class="example">Example 3:</strong></p>
+## 📁 Repository Structure
 
-<pre>
-<strong>Input:</strong> s = &quot;pwwkew&quot;
-<strong>Output:</strong> 3
-<strong>Explanation:</strong> The answer is &quot;wke&quot;, with the length of 3.
-Notice that the answer must be a substring, &quot;pwke&quot; is a subsequence and not a substring.
-</pre>
+Solutions are organized by topic or problem number for easy navigation.
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
-
-<ul>
-	<li><code>0 &lt;= s.length &lt;= 10<sup>5</sup></code></li>
-	<li><code>s</code> consists of English letters, digits, symbols and spaces.</li>
-</ul>
+LeetCode-Solutions/
+├── Arrays/
+├── Strings/
+├── Linked Lists/
+├── Stack/
+├── Queue/
+├── Trees/
+└── Graphs/
