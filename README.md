@@ -68,6 +68,7 @@ LeetCode-Solutions/
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sapna53/Leetcodesolution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0049-group-anagrams](https://github.com/sapna53/Leetcodesolution/tree/main/0049-group-anagrams/) | Medium |
+| [0136-single-number](https://github.com/sapna53/Leetcodesolution/tree/main/0136-single-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,4 +81,8 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/sapna53/Leetcodesolution/tree/main/0049-group-anagrams/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/sapna53/Leetcodesolution/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
