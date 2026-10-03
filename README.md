@@ -96,6 +96,7 @@ LeetCode-Solutions/
 | [0009-palindrome-number](https://github.com/sapna53/Leetcodesolution/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/sapna53/Leetcodesolution/tree/main/0012-integer-to-roman/) | Medium |
 | [0202-happy-number](https://github.com/sapna53/Leetcodesolution/tree/main/0202-happy-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/sapna53/Leetcodesolution/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,4 +106,16 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/sapna53/Leetcodesolution/tree/main/0202-happy-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/sapna53/Leetcodesolution/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/sapna53/Leetcodesolution/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/sapna53/Leetcodesolution/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
