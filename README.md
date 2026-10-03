@@ -89,6 +89,7 @@ LeetCode-Solutions/
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/sapna53/Leetcodesolution/tree/main/0009-palindrome-number/) | Easy |
 | [0202-happy-number](https://github.com/sapna53/Leetcodesolution/tree/main/0202-happy-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
