@@ -91,12 +91,14 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sapna53/Leetcodesolution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0148-sort-list](https://github.com/sapna53/Leetcodesolution/tree/main/0148-sort-list/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/sapna53/Leetcodesolution/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/sapna53/Leetcodesolution/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/sapna53/Leetcodesolution/tree/main/0049-group-anagrams/) | Medium |
+| [0148-sort-list](https://github.com/sapna53/Leetcodesolution/tree/main/0148-sort-list/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +116,7 @@ LeetCode-Solutions/
 | [0015-3sum](https://github.com/sapna53/Leetcodesolution/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/sapna53/Leetcodesolution/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/sapna53/Leetcodesolution/tree/main/0027-remove-element/) | Easy |
+| [0148-sort-list](https://github.com/sapna53/Leetcodesolution/tree/main/0148-sort-list/) | Medium |
 | [0202-happy-number](https://github.com/sapna53/Leetcodesolution/tree/main/0202-happy-number/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -145,6 +148,7 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sapna53/Leetcodesolution/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0148-sort-list](https://github.com/sapna53/Leetcodesolution/tree/main/0148-sort-list/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,4 +171,8 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sapna53/Leetcodesolution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/sapna53/Leetcodesolution/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
