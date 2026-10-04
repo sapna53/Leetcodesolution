@@ -74,12 +74,14 @@ LeetCode-Solutions/
 | [0015-3sum](https://github.com/sapna53/Leetcodesolution/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/sapna53/Leetcodesolution/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/sapna53/Leetcodesolution/tree/main/0027-remove-element/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/sapna53/Leetcodesolution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/sapna53/Leetcodesolution/tree/main/0049-group-anagrams/) | Medium |
 | [0136-single-number](https://github.com/sapna53/Leetcodesolution/tree/main/0136-single-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sapna53/Leetcodesolution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0033-search-in-rotated-sorted-array](https://github.com/sapna53/Leetcodesolution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
