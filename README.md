@@ -64,6 +64,7 @@ LeetCode-Solutions/
 | [0012-integer-to-roman](https://github.com/sapna53/Leetcodesolution/tree/main/0012-integer-to-roman/) | Medium |
 | [0020-valid-parentheses](https://github.com/sapna53/Leetcodesolution/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/sapna53/Leetcodesolution/tree/main/0049-group-anagrams/) | Medium |
+| [0058-length-of-last-word](https://github.com/sapna53/Leetcodesolution/tree/main/0058-length-of-last-word/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
