@@ -179,6 +179,7 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/sapna53/Leetcodesolution/tree/main/0175-combine-two-tables/) | Easy |
+| [0182-duplicate-emails](https://github.com/sapna53/Leetcodesolution/tree/main/0182-duplicate-emails/) | Easy |
 | [0584-find-customer-referee](https://github.com/sapna53/Leetcodesolution/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/sapna53/Leetcodesolution/tree/main/0595-big-countries/) | Easy |
 <!---LeetCode Topics End-->
