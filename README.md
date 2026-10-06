@@ -179,6 +179,7 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/sapna53/Leetcodesolution/tree/main/0175-combine-two-tables/) | Easy |
+| [0180-consecutive-numbers](https://github.com/sapna53/Leetcodesolution/tree/main/0180-consecutive-numbers/) | Medium |
 | [0182-duplicate-emails](https://github.com/sapna53/Leetcodesolution/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/sapna53/Leetcodesolution/tree/main/0183-customers-who-never-order/) | Easy |
 | [0584-find-customer-referee](https://github.com/sapna53/Leetcodesolution/tree/main/0584-find-customer-referee/) | Easy |
