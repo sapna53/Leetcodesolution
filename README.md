@@ -92,6 +92,7 @@ LeetCode-Solutions/
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sapna53/Leetcodesolution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0148-sort-list](https://github.com/sapna53/Leetcodesolution/tree/main/0148-sort-list/) | Medium |
+| [0190-reverse-bits](https://github.com/sapna53/Leetcodesolution/tree/main/0190-reverse-bits/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +104,7 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/sapna53/Leetcodesolution/tree/main/0136-single-number/) | Easy |
+| [0190-reverse-bits](https://github.com/sapna53/Leetcodesolution/tree/main/0190-reverse-bits/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
