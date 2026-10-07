@@ -56,6 +56,7 @@ LeetCode-Solutions/
 | [0012-integer-to-roman](https://github.com/sapna53/Leetcodesolution/tree/main/0012-integer-to-roman/) | Medium |
 | [0041-first-missing-positive](https://github.com/sapna53/Leetcodesolution/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/sapna53/Leetcodesolution/tree/main/0049-group-anagrams/) | Medium |
+| [0169-majority-element](https://github.com/sapna53/Leetcodesolution/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/sapna53/Leetcodesolution/tree/main/0202-happy-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -81,6 +82,7 @@ LeetCode-Solutions/
 | [0041-first-missing-positive](https://github.com/sapna53/Leetcodesolution/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/sapna53/Leetcodesolution/tree/main/0049-group-anagrams/) | Medium |
 | [0136-single-number](https://github.com/sapna53/Leetcodesolution/tree/main/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/sapna53/Leetcodesolution/tree/main/0169-majority-element/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +94,7 @@ LeetCode-Solutions/
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sapna53/Leetcodesolution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0148-sort-list](https://github.com/sapna53/Leetcodesolution/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/sapna53/Leetcodesolution/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/sapna53/Leetcodesolution/tree/main/0190-reverse-bits/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -100,6 +103,7 @@ LeetCode-Solutions/
 | [0018-4sum](https://github.com/sapna53/Leetcodesolution/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/sapna53/Leetcodesolution/tree/main/0049-group-anagrams/) | Medium |
 | [0148-sort-list](https://github.com/sapna53/Leetcodesolution/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/sapna53/Leetcodesolution/tree/main/0169-majority-element/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,4 +195,12 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0401-binary-watch](https://github.com/sapna53/Leetcodesolution/tree/main/0401-binary-watch/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/sapna53/Leetcodesolution/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/sapna53/Leetcodesolution/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
