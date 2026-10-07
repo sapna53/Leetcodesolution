@@ -105,6 +105,7 @@ LeetCode-Solutions/
 | ------- | ------- |
 | [0136-single-number](https://github.com/sapna53/Leetcodesolution/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/sapna53/Leetcodesolution/tree/main/0190-reverse-bits/) | Easy |
+| [0401-binary-watch](https://github.com/sapna53/Leetcodesolution/tree/main/0401-binary-watch/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,4 +187,8 @@ LeetCode-Solutions/
 | [0183-customers-who-never-order](https://github.com/sapna53/Leetcodesolution/tree/main/0183-customers-who-never-order/) | Easy |
 | [0584-find-customer-referee](https://github.com/sapna53/Leetcodesolution/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/sapna53/Leetcodesolution/tree/main/0595-big-countries/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0401-binary-watch](https://github.com/sapna53/Leetcodesolution/tree/main/0401-binary-watch/) | Easy |
 <!---LeetCode Topics End-->
