@@ -83,6 +83,7 @@ LeetCode-Solutions/
 | [0049-group-anagrams](https://github.com/sapna53/Leetcodesolution/tree/main/0049-group-anagrams/) | Medium |
 | [0136-single-number](https://github.com/sapna53/Leetcodesolution/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/sapna53/Leetcodesolution/tree/main/0169-majority-element/) | Easy |
+| [0283-move-zeroes](https://github.com/sapna53/Leetcodesolution/tree/main/0283-move-zeroes/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +127,7 @@ LeetCode-Solutions/
 | [0027-remove-element](https://github.com/sapna53/Leetcodesolution/tree/main/0027-remove-element/) | Easy |
 | [0148-sort-list](https://github.com/sapna53/Leetcodesolution/tree/main/0148-sort-list/) | Medium |
 | [0202-happy-number](https://github.com/sapna53/Leetcodesolution/tree/main/0202-happy-number/) | Easy |
+| [0283-move-zeroes](https://github.com/sapna53/Leetcodesolution/tree/main/0283-move-zeroes/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
