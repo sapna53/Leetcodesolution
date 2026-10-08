@@ -89,6 +89,7 @@ LeetCode-Solutions/
 | [0004-median-of-two-sorted-arrays](https://github.com/sapna53/Leetcodesolution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/sapna53/Leetcodesolution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sapna53/Leetcodesolution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0278-first-bad-version](https://github.com/sapna53/Leetcodesolution/tree/main/0278-first-bad-version/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,4 +204,8 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/sapna53/Leetcodesolution/tree/main/0169-majority-element/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/sapna53/Leetcodesolution/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
