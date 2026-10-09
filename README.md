@@ -119,6 +119,7 @@ LeetCode-Solutions/
 | [0012-integer-to-roman](https://github.com/sapna53/Leetcodesolution/tree/main/0012-integer-to-roman/) | Medium |
 | [0202-happy-number](https://github.com/sapna53/Leetcodesolution/tree/main/0202-happy-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/sapna53/Leetcodesolution/tree/main/0509-fibonacci-number/) | Easy |
+| [3870-count-commas-in-range](https://github.com/sapna53/Leetcodesolution/tree/main/3870-count-commas-in-range/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
