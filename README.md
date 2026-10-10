@@ -66,6 +66,7 @@ LeetCode-Solutions/
 | [0020-valid-parentheses](https://github.com/sapna53/Leetcodesolution/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/sapna53/Leetcodesolution/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/sapna53/Leetcodesolution/tree/main/0058-length-of-last-word/) | Easy |
+| [3340-check-balanced-string](https://github.com/sapna53/Leetcodesolution/tree/main/3340-check-balanced-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
