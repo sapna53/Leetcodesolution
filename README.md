@@ -196,6 +196,7 @@ LeetCode-Solutions/
 | [0183-customers-who-never-order](https://github.com/sapna53/Leetcodesolution/tree/main/0183-customers-who-never-order/) | Easy |
 | [0584-find-customer-referee](https://github.com/sapna53/Leetcodesolution/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/sapna53/Leetcodesolution/tree/main/0595-big-countries/) | Easy |
+| [0626-exchange-seats](https://github.com/sapna53/Leetcodesolution/tree/main/0626-exchange-seats/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
