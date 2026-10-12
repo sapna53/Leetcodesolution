@@ -85,6 +85,7 @@ LeetCode-Solutions/
 | [0136-single-number](https://github.com/sapna53/Leetcodesolution/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/sapna53/Leetcodesolution/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/sapna53/Leetcodesolution/tree/main/0283-move-zeroes/) | Easy |
+| [0561-array-partition](https://github.com/sapna53/Leetcodesolution/tree/main/0561-array-partition/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +108,7 @@ LeetCode-Solutions/
 | [0049-group-anagrams](https://github.com/sapna53/Leetcodesolution/tree/main/0049-group-anagrams/) | Medium |
 | [0148-sort-list](https://github.com/sapna53/Leetcodesolution/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/sapna53/Leetcodesolution/tree/main/0169-majority-element/) | Easy |
+| [0561-array-partition](https://github.com/sapna53/Leetcodesolution/tree/main/0561-array-partition/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,4 +222,12 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2413-smallest-even-multiple](https://github.com/sapna53/Leetcodesolution/tree/main/2413-smallest-even-multiple/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/sapna53/Leetcodesolution/tree/main/0561-array-partition/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/sapna53/Leetcodesolution/tree/main/0561-array-partition/) | Easy |
 <!---LeetCode Topics End-->
