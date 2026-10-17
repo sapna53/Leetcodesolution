@@ -82,6 +82,7 @@ LeetCode-Solutions/
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sapna53/Leetcodesolution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/sapna53/Leetcodesolution/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/sapna53/Leetcodesolution/tree/main/0049-group-anagrams/) | Medium |
+| [0055-jump-game](https://github.com/sapna53/Leetcodesolution/tree/main/0055-jump-game/) | Medium |
 | [0136-single-number](https://github.com/sapna53/Leetcodesolution/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/sapna53/Leetcodesolution/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/sapna53/Leetcodesolution/tree/main/0283-move-zeroes/) | Easy |
@@ -141,6 +142,7 @@ LeetCode-Solutions/
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/sapna53/Leetcodesolution/tree/main/0055-jump-game/) | Medium |
 | [0509-fibonacci-number](https://github.com/sapna53/Leetcodesolution/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -230,6 +232,7 @@ LeetCode-Solutions/
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/sapna53/Leetcodesolution/tree/main/0055-jump-game/) | Medium |
 | [0561-array-partition](https://github.com/sapna53/Leetcodesolution/tree/main/0561-array-partition/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
